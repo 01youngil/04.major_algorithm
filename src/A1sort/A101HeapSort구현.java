@@ -11,5 +11,7 @@ public class A101HeapSort구현 {
     static void heapify(int parent){
         int left = parent*2+1;
         int right = parent*2+2;
+
+        d
     }
 }
